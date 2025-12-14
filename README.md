@@ -5,4 +5,4 @@ Empty project for trainining git
 | left columns | Right columns |
 | ------------ | ------------- |
 | neco left    | neco right    |
-| ----||---    | ----|-----    |
+| idk left     | idk right     |
